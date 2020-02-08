@@ -1,0 +1,22 @@
+{
+  "name": "blog_3_jstips_clone_object",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lodash.js",
+  "scripts": {
+    "start": "node lodash.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiendubois/BLOG_3_JSTIPS_CLONE_OBJECT.git"
+  },
+  "author": "Fabien DUBOIS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiendubois/BLOG_3_JSTIPS_CLONE_OBJECT/issues"
+  },
+  "homepage": "https://github.com/fabiendubois/BLOG_3_JSTIPS_CLONE_OBJECT#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
